@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm William Roger!
+# Hello <img src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="10px">, I'm William Roger!
 
 👨‍💻 Software Developer at [Accenture](https://www.accenture.com/br-pt) </br>
 🏠 Brazilian, born in [Capivari-SP](https://pt.wikipedia.org/wiki/Capivari), living in [Recife-PE](https://pt.wikipedia.org/wiki/Recife).
